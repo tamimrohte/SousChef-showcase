@@ -36,10 +36,23 @@ SousChef is being built to connect those decisions into one workflow.
 
 ## Product
 
-[PRODUCT SCREENSHOTS WILL GO HERE]
+### From demand to purchasing decisions
 
-The current MVP provides an operational workspace for planning a service, reviewing forecast demand, calculating ingredient requirements, accounting for inventory and preparing supplier orders.
+![SousChef procurement workspace](procurement-workspace.png)
 
+SousChef translates expected restaurant demand into ingredient-level purchasing recommendations, accounting for current inventory and supplier pack sizes before presenting supplier-ready quantities for chef review.
+
+### Service planning
+
+![SousChef service planning](service-planning.png)
+
+Each service is managed as an operational plan, allowing the kitchen to see what requires ordering, which supplier orders need attention, and what has already been approved.
+
+### Supplier order workflow
+
+![SousChef supplier orders](supplier-orders.png)
+
+Procurement recommendations are grouped into supplier-specific orders, giving the kitchen a single workflow to review, adjust and approve purchasing decisions.
 ## System architecture
 
 SousChef is designed around a modular pipeline:
